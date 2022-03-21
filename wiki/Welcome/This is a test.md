@@ -16,10 +16,10 @@ I could also do a table over good and *evil* animals
 ## A usefull function
 
 Here is a really usefull function:
-"""python
+~~~ python
 def add(a, b):
   return a + b
-"""
+~~~
 
 It does one thing, and one thing only:
 - Adds the two numbers, `a` and `b`
